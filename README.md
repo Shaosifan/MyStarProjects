@@ -4,7 +4,8 @@
 
 ## Super-resolution related
 * Single-Image-Super-Resolution [[Link]](https://github.com/YapengTian/Single-Image-Super-Resolution) : A collection of high-impact and state-of-the-art SR methods
-* Super-Resolution.Benckmark [[Link]](https://github.com/huangzehao/Super-Resolution.Benckmark):Benchmark and resources for single super-resolution algorithms
+* Awesome-Super-Resolution [[Link]](https://github.com/ChaofWang/Awesome-Super-Resolution)
+
 
 ## Object detection related
 * awesome-object-detection [[Link]](https://github.com/amusi/awesome-object-detection)
