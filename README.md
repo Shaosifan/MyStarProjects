@@ -1,4 +1,6 @@
-# MyStarProjects
+# RespositoriesCollecting
+Collecting some respositories about my interesting fields   
+
 ## GAN related
 * AdversarialNetsPapers [[Link]](https://github.com/zhangqianhui/AdversarialNetsPapers)
 
