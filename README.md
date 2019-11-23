@@ -7,7 +7,7 @@ Collecting some respositories about my interesting fields
 ## Super-resolution related
 * Single-Image-Super-Resolution [[Link]](https://github.com/YapengTian/Single-Image-Super-Resolution) : A collection of high-impact and state-of-the-art SR methods
 * Awesome-Super-Resolution [[Link]](https://github.com/ChaofWang/Awesome-Super-Resolution)
-
+* VideoSuperResolution [[Link]](https://github.com/LoSealL/VideoSuperResolution)
 
 ## Object detection related
 * awesome-object-detection [[Link]](https://github.com/amusi/awesome-object-detection)
