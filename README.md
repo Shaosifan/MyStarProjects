@@ -11,7 +11,7 @@ Collecting some respositories about my interesting fields
 
 ## Object detection related
 * [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection): A paper list of object detection using deep learning
-* [awesome-object-detection](https://github.com/amusi/awesome-object-detection)
+* [awesome-object-detection](https://github.com/amusi/awesome-object-detection): 
 Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 * [MMDetection Toolbox](https://github.com/open-mmlab/mmdetection): Open MMLab Detection Toolbox and Benchmark https://mmdetection.readthedocs.io
 
